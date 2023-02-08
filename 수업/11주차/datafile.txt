@@ -1,0 +1,6 @@
+0001 bts m 88 99 100
+0002 blackpink f 77 98 100
+0003 blackpink f 66 88 96
+0004 omg f 100 99 77
+0005 7teen f 88 55 94
+-1
